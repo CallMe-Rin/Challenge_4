@@ -15,7 +15,7 @@ module.exports = {
       type: {
         type: Sequelize.ENUM("small", "medium", "large"),
       },
-      rentPerDay: {
+      price: {
         type: Sequelize.INTEGER,
       },
       imgUrl: {
