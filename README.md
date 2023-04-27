@@ -6,7 +6,7 @@
   <p align="center">Car Management Dashboard</p>
 </div>
 
-![erd](./ERD%20Binar%20Challenge%205.png)
+![erd](./ERD%20Binar%20Challenge%204.png)
 
 # HTTP REQUST METHOD
 
